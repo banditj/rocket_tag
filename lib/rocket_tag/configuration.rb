@@ -4,7 +4,7 @@ module RocketTag
       :force_lowercase
     ]
 
-    DEFAULT_FORCE_LOWERCASE = false
+    DEFAULT_FORCE_LOWERCASE = true
 
     attr_accessor *VALID_CONFIG_KEYS
 
