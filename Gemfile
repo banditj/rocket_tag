@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 gem "activerecord", ">= 3.2.0"
-gem "squeel", '~> 1.0.11', :require => false
+gem "squeel", '1.0.9', :require => false
 
 # Add dependencies to develop your gem here.
 # Include everything needed to run rake, tests, features, etc.
